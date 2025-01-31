@@ -17,3 +17,6 @@ console.log(Math.PI);
 let randomNumber = Math.random();
 randomNumber *= 3;
 randomNumber = Math.floor(randomNumber);
+randomNumber = randomNumber + 1;
+console.log(randomNumber);
+
